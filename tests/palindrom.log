@@ -1,0 +1,20 @@
+Trace line 5: def is_a_palindrome
+Trace line 12: Call function input with params ["A word: "]
+Trace line 12: query = "racecar"
+Trace line 13: Call function is_a_palindrome with params ["racecar"]
+Trace line 6: i1 = 0
+Trace line 6: Call function len with params ["racecar"]
+Trace line 6: i2 = 6
+Trace line 7: while True: ...
+Trace line 9: i1 = 1
+Trace line 9: i2 = 5
+Trace line 7: while True: ...
+Trace line 9: i1 = 2
+Trace line 9: i2 = 4
+Trace line 7: while True: ...
+Trace line 9: i1 = 3
+Trace line 9: i2 = 3
+Trace line 7: while False:
+Trace line 10: return True
+Trace line 13: Call function print with params [""racecar":", True]
+Trace line 13: Expression statement produced None
